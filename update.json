@@ -1,0 +1,8 @@
+{
+  "version": "0.0.0",
+  "publishedAt": "2026-06-13T00:00:00.000Z",
+  "note": "Seed manifest. Replaced by scripts/publish-online.ps1 on the first real publish. version 0.0.0 means no update.",
+  "server":  { "version": "0.0.0", "url": "", "sha256": "", "sizeBytes": 0, "sourceCommit": "seed" },
+  "client":  { "version": "0.0.0", "url": "", "sha256": "", "sizeBytes": 0, "sourceCommit": "seed" },
+  "android": { "version": "0.0.0", "url": "", "sha256": "", "sizeBytes": 0, "sourceCommit": "seed" }
+}
