@@ -1,25 +1,25 @@
 {
-    "version":  "1.2.7",
-    "publishedAt":  "2026-07-04T04:48:34.010Z",
+    "version":  "1.2.10",
+    "publishedAt":  "2026-07-04T07:09:06.826Z",
     "server":  {
-                   "version":  "1.2.7",
-                   "url":  "https://github.com/rjcantare/slotify-releases/releases/download/v1.2.7/RentalServer.exe",
-                   "sha256":  "8ce3ba2485db7d6ab234c8b54f8241ba8d7d6dbaca7cac7823a5084d798f5046",
-                   "sizeBytes":  73635410,
-                   "sourceCommit":  "06d8fa123b90"
+                   "version":  "1.2.10",
+                   "url":  "https://github.com/rjcantare/slotify-releases/releases/download/v1.2.10/RentalServer.exe",
+                   "sha256":  "4bca83b5e7f71d8b87106c3ba47fe9d307c89dfbe41f5752ce6195efe5fdbca5",
+                   "sizeBytes":  73636146,
+                   "sourceCommit":  "9a9082d6f177"
                },
     "client":  {
-                   "version":  "1.2.7",
-                   "url":  "https://github.com/rjcantare/slotify-releases/releases/download/v1.2.7/RentalClient.Windows.exe",
-                   "sha256":  "1415c06135a89cf7b8d88e10801b99da39768493793fb18d32e07f228309148c",
-                   "sizeBytes":  72696150,
-                   "sourceCommit":  "06d8fa123b90"
+                   "version":  "1.2.10",
+                   "url":  "https://github.com/rjcantare/slotify-releases/releases/download/v1.2.10/RentalClient.Windows.exe",
+                   "sha256":  "ca83ecf211c2f76eba51343677c6f7e7a300b93196633ca7df5a765c52d60ba1",
+                   "sizeBytes":  72696158,
+                   "sourceCommit":  "9a9082d6f177"
                },
     "android":  {
-                    "version":  "1.2.7",
-                    "url":  "https://github.com/rjcantare/slotify-releases/releases/download/v1.2.7/RentalAndroid.apk",
-                    "sha256":  "6d715a9fe43ae63f376bbd816c27756b8bc0fbd27e1151a27d5878e63c3d19ec",
-                    "sizeBytes":  4946120,
-                    "sourceCommit":  "ff88f21ff40e"
+                    "version":  "1.2.10",
+                    "url":  "https://github.com/rjcantare/slotify-releases/releases/download/v1.2.10/RentalAndroid.apk",
+                    "sha256":  "6f7b135fc8de8fe8a9179739af4d89f7694f043546b0f037cd1fb883d6754318",
+                    "sizeBytes":  4947368,
+                    "sourceCommit":  "8e05fb4a10f1"
                 }
 }
