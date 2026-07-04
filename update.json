@@ -1,25 +1,25 @@
 {
-    "version":  "1.2.10",
-    "publishedAt":  "2026-07-04T07:09:06.826Z",
+    "version":  "1.2.11",
+    "publishedAt":  "2026-07-04T09:50:56.554Z",
     "server":  {
-                   "version":  "1.2.10",
-                   "url":  "https://github.com/rjcantare/slotify-releases/releases/download/v1.2.10/RentalServer.exe",
-                   "sha256":  "4bca83b5e7f71d8b87106c3ba47fe9d307c89dfbe41f5752ce6195efe5fdbca5",
+                   "version":  "1.2.11",
+                   "url":  "https://github.com/rjcantare/slotify-releases/releases/download/v1.2.11/RentalServer.exe",
+                   "sha256":  "314caa2dc4070d9f0346033103356fbb0ae83670539a028e44e269a45f76f73e",
                    "sizeBytes":  73636146,
                    "sourceCommit":  "9a9082d6f177"
                },
     "client":  {
-                   "version":  "1.2.10",
-                   "url":  "https://github.com/rjcantare/slotify-releases/releases/download/v1.2.10/RentalClient.Windows.exe",
-                   "sha256":  "ca83ecf211c2f76eba51343677c6f7e7a300b93196633ca7df5a765c52d60ba1",
-                   "sizeBytes":  72696158,
+                   "version":  "1.2.11",
+                   "url":  "https://github.com/rjcantare/slotify-releases/releases/download/v1.2.11/RentalClient.Windows.exe",
+                   "sha256":  "82084432380a6b4a1d5438ba7093f471a548035ef28d2ce43a8cff3da480bee9",
+                   "sizeBytes":  72696146,
                    "sourceCommit":  "9a9082d6f177"
                },
     "android":  {
-                    "version":  "1.2.10",
-                    "url":  "https://github.com/rjcantare/slotify-releases/releases/download/v1.2.10/RentalAndroid.apk",
-                    "sha256":  "6f7b135fc8de8fe8a9179739af4d89f7694f043546b0f037cd1fb883d6754318",
-                    "sizeBytes":  4947368,
-                    "sourceCommit":  "8e05fb4a10f1"
+                    "version":  "1.2.11",
+                    "url":  "https://github.com/rjcantare/slotify-releases/releases/download/v1.2.11/RentalAndroid.apk",
+                    "sha256":  "c6f2386be98b8f241850c18598639f3b796bf3556ae41d2cb865cc7ccdb7b47c",
+                    "sizeBytes":  4949164,
+                    "sourceCommit":  "36c43b59f169"
                 }
 }
