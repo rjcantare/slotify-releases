@@ -1,25 +1,25 @@
 {
-    "version":  "1.2.11",
-    "publishedAt":  "2026-07-04T09:50:56.554Z",
-    "server":  {
-                   "version":  "1.2.11",
-                   "url":  "https://github.com/rjcantare/slotify-releases/releases/download/v1.2.11/RentalServer.exe",
-                   "sha256":  "314caa2dc4070d9f0346033103356fbb0ae83670539a028e44e269a45f76f73e",
-                   "sizeBytes":  73636146,
-                   "sourceCommit":  "9a9082d6f177"
-               },
-    "client":  {
-                   "version":  "1.2.11",
-                   "url":  "https://github.com/rjcantare/slotify-releases/releases/download/v1.2.11/RentalClient.Windows.exe",
-                   "sha256":  "82084432380a6b4a1d5438ba7093f471a548035ef28d2ce43a8cff3da480bee9",
-                   "sizeBytes":  72696146,
-                   "sourceCommit":  "9a9082d6f177"
-               },
-    "android":  {
-                    "version":  "1.2.11",
-                    "url":  "https://github.com/rjcantare/slotify-releases/releases/download/v1.2.11/RentalAndroid.apk",
-                    "sha256":  "c6f2386be98b8f241850c18598639f3b796bf3556ae41d2cb865cc7ccdb7b47c",
-                    "sizeBytes":  4949164,
-                    "sourceCommit":  "36c43b59f169"
-                }
+  "version": "1.3.1",
+  "publishedAt": "2026-11-21T15:28:57.245Z",
+  "server": {
+    "version": "1.3.1",
+    "url": "https://github.com/rjcantare/Slotify/releases/download/v1.3.1/RentalServer.exe",
+    "sha256": "987f9eb4d3a18614d5aede9d4413c16037895f0378cd41a0aa7d70a7528ad08d",
+    "sizeBytes": 73647197,
+    "sourceCommit": "8d4ae35a2198"
+  },
+  "client": {
+    "version": "1.3.1",
+    "url": "https://github.com/rjcantare/Slotify/releases/download/v1.3.1/RentalClient.Windows.exe",
+    "sha256": "d97d10047be5278efffca8db57f221764ecaaaa80f4bfffafaf3ce56f30b5e24",
+    "sizeBytes": 72711934,
+    "sourceCommit": "8d4ae35a2198"
+  },
+  "android": {
+    "version": "1.3.1",
+    "url": "https://github.com/rjcantare/Slotify/releases/download/v1.3.1/RentalSystem-Tablet.apk",
+    "sha256": "7db7925c48a6062f78aee35a7aeafc027498903f396f8305604f591712f1f975",
+    "sizeBytes": 4949172,
+    "sourceCommit": "8d4ae35a2198"
+  }
 }
